@@ -6,3 +6,5 @@ This is a simple weather dashboard. You are able to search what city you would w
 
 https://github.com/pcyang57/Weather-Dashboard
 
+https://pcyang57.github.io/Weather-Dashboard/
+
